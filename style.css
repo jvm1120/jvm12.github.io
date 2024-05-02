@@ -9,8 +9,7 @@ html, *{
 h1{
     padding-left:20px;
     width:100%;
-    background-color: #4a92f0;
-    color:#fff;
+    color:#666;
 }
 main{
     width:600px;
